@@ -48,7 +48,7 @@ preguntas = [
         ]
     },
     {
-        "texto": "Un carpintero quiere construir una mesa de 12 metros de largo gastando exactamente $170 usando tablas tipo A ($30, 2 m) y tipo B ($40, 3 m). ¿Cuál es el sistema de ecuaciones que representa este problema?",
+        "texto": "Un carpintero quiere construir una mesa de 12 metros de largo gastando exactamente 170 pesos usando tablas tipo A (30 pesos, 2 m) y tipo B (40 pesos, 3 m). ¿Cuál es el sistema de ecuaciones que representa este problema?",
         "opciones": [
             "2x + 3y = 12,    30x + 40y = 170",
             "2x + 3y = 170,   30x + 40y = 12",
